@@ -51,7 +51,7 @@
     "cross-env": "^7.0.2",
     "delay": "^4.3.0",
     "dirty-chai": "^2.0.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.0.1",
     "electron": "9.3.2",
     "electron-builder": "22.8.1",
     "electron-notarize": "1.0.0",
