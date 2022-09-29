@@ -73,7 +73,7 @@
     "countly-sdk-nodejs": "^22.2.0",
     "electron-serve": "^1.0.0",
 
-    "fix-path": "^3.0.0",
+    "fix-path": "^4.0.0",
     "fs-extra": "^10.1.0",
 
     "i18next-electron-language-detector": "0.0.10",
